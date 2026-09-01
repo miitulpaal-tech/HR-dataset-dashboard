@@ -15,11 +15,3 @@ This project turns the HR dataset into an interactive workforce dashboard using 
 ```bash
 python -m pip install -r requirements.txt
 ```
-
-## Run
-
-```bash
-streamlit run app.py
-```
-
-The dashboard opens in your browser and includes filters for department, status, business unit, and gender, plus key workforce metrics and charts.
