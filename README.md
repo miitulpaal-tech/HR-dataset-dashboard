@@ -1,6 +1,6 @@
 # HR Dataset Dashboard
 
-This project turns the HR dataset into an interactive workforce dashboard using Streamlit.
+This project turns the HR dataset into an interactive workforce dashboard.
 
 ## Project layout
 
